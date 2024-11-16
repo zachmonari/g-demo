@@ -1,2 +1,2 @@
 # DEMO
-My first demo on github.
+My first demo project on github.
